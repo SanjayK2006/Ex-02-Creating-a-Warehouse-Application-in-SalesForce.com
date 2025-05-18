@@ -1,6 +1,6 @@
 # Ex-11-Creating-a-Warehouse-Application-in-SalesForce.com
-##NAME: SANJAY K
-##REG NO: 212223220094
+## NAME: SANJAY K
+## REG NO: 212223220094
 ## AIM:
 To create a warehouse application in salesforce.com
 
